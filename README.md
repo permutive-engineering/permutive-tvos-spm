@@ -14,6 +14,6 @@ Easily include Permutive SDK in your Podfile:
 ```
 target 'Your Target' do
     platform :tvos, '13.0'
-    pod 'Permutive_tvOS', '~> 3.0.3'
+    pod 'Permutive_tvOS', '~> 3.0.4'
 end
 ```
